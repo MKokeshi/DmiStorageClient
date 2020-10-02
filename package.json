@@ -14,7 +14,7 @@
     "crypto-js": "^3.2.1",
     "materialize-css": "^1.0.0-rc.2",
     "vue": "^2.6.10",
-    "vue-pdf": "^4.0.7",
+    "vue-pdf": "^4.1.0",
     "vue-router": "^3.0.3",
     "vue-sweetalert2": "^2.1.5",
     "vuex": "^3.0.1"
